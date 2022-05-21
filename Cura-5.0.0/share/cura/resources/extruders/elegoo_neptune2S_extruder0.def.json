@@ -1,9 +1,9 @@
 {
-    "version": 2,
     "name": "Extruder 1",
+    "version": 2,
     "inherits": "fdmextruder",
     "metadata": {
-        "machine": "elegoo_neptune_2S",
+        "machine": "elegoo_neptune2S",
         "position": "0"
     },
 
